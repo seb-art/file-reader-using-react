@@ -1,0 +1,14 @@
+*{
+  margin:0;
+  padding:0;
+ }
+ 
+ .pdf-container{
+   width:46%;
+   height: 800px;
+   background-color: #d6d4f1;
+   overflow-y: auto;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ }
